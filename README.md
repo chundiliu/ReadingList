@@ -13,3 +13,6 @@ Paper and talk grass list.
 [Pixel Recursive Super Resolution](https://arxiv.org/pdf/1702.00783v1.pdf) 
 
 [Tutorial on GAN](https://arxiv.org/pdf/1701.00160v3.pdf)
+
+## Videos
+[Ruslan's Tutorial in Deep Learning](https://simons.berkeley.edu/talks/tutorial-deep-learning)
