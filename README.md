@@ -29,3 +29,7 @@ Paper and talk grass list.
 RECURRENT NEURAL NETWORKS)
 ## Videos
 [Ruslan's Tutorial in Deep Learning](https://simons.berkeley.edu/talks/tutorial-deep-learning)
+
+[Stanford NLP Deep Learning syllabus](http://cs224d.stanford.edu/syllabus.html)
+
+[Stanford NLP Deep Learning video list](https://www.youtube.com/playlist?list=PLlJy-eBtNFt4CSVWYqscHDdP58M3zFHIG)
