@@ -14,5 +14,18 @@ Paper and talk grass list.
 
 [Tutorial on GAN](https://arxiv.org/pdf/1701.00160v3.pdf)
 
+###Language & RNN
+
+[Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)
+
+###Recommendations
+[NetEase](http://bmc.uestc.edu.cn/~zhangdongxiang/papers/ICDE16_industry_231.pdf)
+
+[Maksims_1](https://pdfs.semanticscholar.org/c52e/f5426715984b1c6440a582499a549d33e4ce.pdf)
+
+[Effective Latent Models for Binary Feedback in Recommender Systems](https://pdfs.semanticscholar.org/49ee/8a342cb3676f334165aa2dd05fab995c00f7.pdf)
+
+[Session-based](SESSION-BASED RECOMMENDATIONS WITH
+RECURRENT NEURAL NETWORKS)
 ## Videos
 [Ruslan's Tutorial in Deep Learning](https://simons.berkeley.edu/talks/tutorial-deep-learning)
