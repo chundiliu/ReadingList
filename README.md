@@ -25,8 +25,7 @@ Paper and talk grass list.
 
 [Effective Latent Models for Binary Feedback in Recommender Systems](https://pdfs.semanticscholar.org/49ee/8a342cb3676f334165aa2dd05fab995c00f7.pdf)
 
-[Session-based](SESSION-BASED RECOMMENDATIONS WITH
-RECURRENT NEURAL NETWORKS)
+[SESSION-BASED RECOMMENDATIONS WITH RECURRENT NEURAL NETWORKS](https://arxiv.org/pdf/1511.06939.pdf)
 ## Videos
 [Ruslan's Tutorial in Deep Learning](https://simons.berkeley.edu/talks/tutorial-deep-learning)
 
