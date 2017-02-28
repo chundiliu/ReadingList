@@ -14,6 +14,8 @@ Paper and talk grass list.
 
 [Tutorial on GAN](https://arxiv.org/pdf/1701.00160v3.pdf)
 
+[NIPS 2016 GAN Papers](https://sites.google.com/site/nips2016adversarial/home/accepted-papers)
+
 ###Language & RNN
 
 [Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)
