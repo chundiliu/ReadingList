@@ -16,6 +16,13 @@ Paper and talk grass list.
 
 [NIPS 2016 GAN Papers](https://sites.google.com/site/nips2016adversarial/home/accepted-papers)
 
+[Generating Text via Adversarial Training](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_20.pdf?attachauth=ANoY7cpDgqvVi1CaTdC4YxVV7h-CfamMefA7wgvpcFFKnycvhSzluG6nOHAjy7Tp1bCIPsruuWBTKaNbZTgnEolWqBGaI7SiFefiS0otYRUM_fu-Fd1lMgLBK6uJHHGPOzTi85LDj4Pj_DpTeGbGTKWDSHbjCMT4XcIiMUONvwicj4wxwf1y1X1greT0T2DmBtmIjh6e1WfFCHKWwBslkh57PqKbD-Z2bnkINNeyJ8Ndj9vEkOPn_FM%3D&attredirects=0)
+
+[Skip-Thought Vectors](https://arxiv.org/pdf/1506.06726.pdf)
+
+[GAN](http://datascienceassn.org/sites/default/files/Generative%20Adversarial%20Nets.pdf)
+
+[Modeling documents with Generative Adversarial Networks](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_19.pdf?attachauth=ANoY7cpiEhgAdlzMTtlEVkXEJqYZj9yRyLYZ_pw4OyrFE9OhT_qu7TOZPgmGgu5u3GYb6oz_uqVWEF5zGzzVUVadoWD_qaKRys2vovtk8RPtS_b2JqZP2YVbu6SdAwXi_1bn2XUfO2xIYQ-LP4SpR3-Yjq_n1tN9vIm3uGG5A2LXJcSkzMDIvZO7ojMyWkusYwhXZu3zLNem7JazCSoBCfSKGOlw4jU_6vLY5OhI_fm8vOL1r9PefBI%3D&attredirects=0)
 ###Language & RNN
 
 [Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)
