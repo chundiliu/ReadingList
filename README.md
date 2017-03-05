@@ -47,3 +47,18 @@ Paper and talk grass list.
 [VQA overview](https://arxiv.org/pdf/1607.05910.pdf)
 
 [Multi-labeled CNN](https://arxiv.org/pdf/1406.5726.pdf)
+
+### Follow up of VQA Overview
+(https://arxiv.org/pdf/1511.02799.pdf)
+
+(https://cs.stanford.edu/people/karpathy/nips2014.pdf)
+
+(https://arxiv.org/pdf/1505.02074.pdf)
+
+(https://arxiv.org/pdf/1506.07285.pdf)
+
+(https://arxiv.org/pdf/1603.01417.pdf)
+
+(https://arxiv.org/pdf/1511.06973.pdf) ***
+
+
