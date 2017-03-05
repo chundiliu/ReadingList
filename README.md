@@ -45,3 +45,5 @@ Paper and talk grass list.
 ## For Sanja's Project
 
 [VQA overview](https://arxiv.org/pdf/1607.05910.pdf)
+
+[Multi-labeled CNN](https://arxiv.org/pdf/1406.5726.pdf)
