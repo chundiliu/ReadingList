@@ -23,6 +23,8 @@ Paper and talk grass list.
 [GAN](http://datascienceassn.org/sites/default/files/Generative%20Adversarial%20Nets.pdf)
 
 [Modeling documents with Generative Adversarial Networks](https://c4209155-a-62cb3a1a-s-sites.googlegroups.com/site/nips2016adversarial/WAT16_paper_19.pdf?attachauth=ANoY7cpiEhgAdlzMTtlEVkXEJqYZj9yRyLYZ_pw4OyrFE9OhT_qu7TOZPgmGgu5u3GYb6oz_uqVWEF5zGzzVUVadoWD_qaKRys2vovtk8RPtS_b2JqZP2YVbu6SdAwXi_1bn2XUfO2xIYQ-LP4SpR3-Yjq_n1tN9vIm3uGG5A2LXJcSkzMDIvZO7ojMyWkusYwhXZu3zLNem7JazCSoBCfSKGOlw4jU_6vLY5OhI_fm8vOL1r9PefBI%3D&attredirects=0)
+
+[Tony Wu](https://arxiv.org/pdf/1611.04273.pdf)
 ###Language & RNN
 
 [Distributed Representations of Sentences and Documents](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)
