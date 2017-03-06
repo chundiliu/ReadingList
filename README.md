@@ -59,6 +59,10 @@ Paper and talk grass list.
 
 (https://arxiv.org/pdf/1603.01417.pdf)
 
-(https://arxiv.org/pdf/1511.06973.pdf) ***
+***(https://arxiv.org/pdf/1511.06973.pdf)***
+
+***(https://arxiv.org/pdf/1505.05612.pdf)***
+
+***(https://arxiv.org/pdf/1606.01847.pdf)***
 
 
