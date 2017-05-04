@@ -68,3 +68,7 @@ Paper and talk grass list.
 ***(https://arxiv.org/pdf/1606.01847.pdf)***
 
 [UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS](https://arxiv.org/pdf/1511.06434.pdf)
+
+=======================================================================================
+
+(https://arxiv.org/pdf/1511.05960.pdf)
