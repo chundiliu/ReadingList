@@ -78,3 +78,7 @@ Paper and talk grass list.
 (https://arxiv.org/pdf/1512.05193.pdf)
 
 (https://arxiv.org/pdf/1502.03044.pdf)
+
+**[Stacked Attention Networks for Image Question Answering](https://arxiv.org/pdf/1511.02274.pdf)
+
+(https://arxiv.org/pdf/1610.01076.pdf)
