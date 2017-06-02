@@ -1,5 +1,12 @@
 # ReadingList
 Paper and talk grass list.
+
+###[Long time no read]
+[optimizing-gradient-descent](http://sebastianruder.com/optimizing-gradient-descent/)
+[Exploring the Limits of Language Modeling](https://arxiv.org/pdf/1602.02410.pdf)
+
+
+
 ## History List
 [Topics in ML](https://www.cs.toronto.edu/~duvenaud/courses/csc2541/index.html)
 
