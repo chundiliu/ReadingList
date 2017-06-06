@@ -1,6 +1,10 @@
 # ReadingList
 Paper and talk grass list.
 
+### 06062017
+
+https://arxiv.org/pdf/1606.01781.pdf
+
 ### Long time no read
 
 [optimizing-gradient-descent](http://sebastianruder.com/optimizing-gradient-descent/)
