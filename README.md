@@ -3,7 +3,7 @@ Paper and talk grass list.
 
 ### 06062017
 
-https://arxiv.org/pdf/1606.01781.pdf
+[Very Deep Convolutional Networks for Text Classification](https://arxiv.org/pdf/1606.01781.pdf)
 
 ### Long time no read
 
