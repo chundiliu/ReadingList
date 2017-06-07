@@ -4,6 +4,8 @@ Paper and talk grass list.
 ### 06072017
 Leaky relu
 
+[Res Net read again](https://arxiv.org/pdf/1512.03385.pdf)
+
 #### Batch-size selections:
 [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/pdf/1206.5533.pdf)
 
