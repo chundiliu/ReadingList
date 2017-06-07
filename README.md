@@ -7,6 +7,8 @@ Leaky relu
 [Res Net read again](https://arxiv.org/pdf/1512.03385.pdf)
 
 #### Batch-size selections:
+[basic hyper-parameters](http://cs231n.github.io/neural-networks-3/)
+
 [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/pdf/1206.5533.pdf)
 
 [Efficient Mini-batch Training for Stochastic Optimization](http://www.cs.cmu.edu/~muli/file/minibatch_sgd.pdf)
