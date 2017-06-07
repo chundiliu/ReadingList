@@ -4,6 +4,23 @@ Paper and talk grass list.
 ### 06072017
 Leaky relu
 
+#### <Batch-size selections>:
+[Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/pdf/1206.5533.pdf)
+
+[Efficient Mini-batch Training for Stochastic Optimization](http://www.cs.cmu.edu/~muli/file/minibatch_sgd.pdf)
+
+[Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/abs/1606.04838)
+
+[On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima](https://arxiv.org/pdf/1609.04836.pdf)
+
+https://stats.stackexchange.com/questions/140811/how-large-should-the-batch-size-be-for-stochastic-gradient-descent
+
+https://www.quora.com/Intuitively-how-does-mini-batch-size-affect-the-performance-of-stochastic-gradient-descent
+
+https://stats.stackexchange.com/questions/164876/tradeoff-batch-size-vs-number-of-iterations-to-train-a-neural-network
+
+#### <!Batch-size selections>
+
 ### 06062017
 
 [Very Deep Convolutional Networks for Text Classification](https://arxiv.org/pdf/1606.01781.pdf)
