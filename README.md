@@ -1,6 +1,9 @@
 # ReadingList
 Paper and talk grass list.
 
+### 06072017
+Leaky relu
+
 ### 06062017
 
 [Very Deep Convolutional Networks for Text Classification](https://arxiv.org/pdf/1606.01781.pdf)
