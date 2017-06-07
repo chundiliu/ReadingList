@@ -14,6 +14,10 @@ Leaky relu
 
 [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/pdf/1206.5533.pdf)
 
+[Stochastic Gradient Descent Tricks](https://www.microsoft.com/en-us/research/wp-content/uploads/2012/01/tricks-2012.pdf)
+
+[Efficient BackProb](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+
 [Efficient Mini-batch Training for Stochastic Optimization](http://www.cs.cmu.edu/~muli/file/minibatch_sgd.pdf)
 
 [Optimization Methods for Large-Scale Machine Learning](https://arxiv.org/abs/1606.04838)
