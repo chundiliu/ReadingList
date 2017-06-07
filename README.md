@@ -4,7 +4,7 @@ Paper and talk grass list.
 ### 06072017
 Leaky relu
 
-#### <Batch-size selections>:
+#### Batch-size selections:
 [Practical Recommendations for Gradient-Based Training of Deep Architectures](https://arxiv.org/pdf/1206.5533.pdf)
 
 [Efficient Mini-batch Training for Stochastic Optimization](http://www.cs.cmu.edu/~muli/file/minibatch_sgd.pdf)
@@ -19,7 +19,8 @@ https://www.quora.com/Intuitively-how-does-mini-batch-size-affect-the-performanc
 
 https://stats.stackexchange.com/questions/164876/tradeoff-batch-size-vs-number-of-iterations-to-train-a-neural-network
 
-#### <!Batch-size selections>
+
+
 
 ### 06062017
 
