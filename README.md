@@ -9,6 +9,8 @@ Paper and talk grass list.
 
 [highway network full paper](https://arxiv.org/pdf/1507.06228.pdf)
 
+[Deep Image: Scaling up Image Recognition](https://arxiv.org/vc/arxiv/papers/1501/1501.02876v1.pdf)
+
 
 ### 06072017
 
