@@ -1,6 +1,11 @@
 # ReadingList
 Paper and talk grass list.
 
+### 06082017
+
+[distributed mini-batch](https://research.fb.com/wp-content/uploads/2017/06/imagenet1kin1h3.pdf)
+
+
 ### 06072017
 
 Leaky relu
