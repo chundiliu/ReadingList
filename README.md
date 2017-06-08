@@ -5,6 +5,10 @@ Paper and talk grass list.
 
 [distributed mini-batch](https://research.fb.com/wp-content/uploads/2017/06/imagenet1kin1h3.pdf)
 
+[highway network concised](https://arxiv.org/pdf/1505.00387.pdf)
+
+[highway network full paper](https://arxiv.org/pdf/1507.06228.pdf)
+
 
 ### 06072017
 
