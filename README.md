@@ -5,6 +5,8 @@ Paper and talk grass list.
 
 [Deep Learning: A Bayesian Perspective <this>](https://arxiv.org/pdf/1706.00473.pdf)
 
+[Perplexity](https://en.wikipedia.org/wiki/Perplexity)
+
 ### 06082017
 
 [distributed mini-batch](https://research.fb.com/wp-content/uploads/2017/06/imagenet1kin1h3.pdf)
