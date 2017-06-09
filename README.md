@@ -1,6 +1,10 @@
 # ReadingList
 Paper and talk grass list.
 
+### 06092017
+
+[Deep Learning: A Bayesian Perspective <this>](https://arxiv.org/pdf/1706.00473.pdf)
+
 ### 06082017
 
 [distributed mini-batch](https://research.fb.com/wp-content/uploads/2017/06/imagenet1kin1h3.pdf)
