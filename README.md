@@ -1,6 +1,11 @@
 # ReadingList
 Paper and talk grass list.
 
+
+### 06112017
+
+[The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=social&_r=0)
+
 ### 06092017
 
 [Deep Learning: A Bayesian Perspective <this>](https://arxiv.org/pdf/1706.00473.pdf)
