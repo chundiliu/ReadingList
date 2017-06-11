@@ -6,6 +6,10 @@ Paper and talk grass list.
 
 [The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html?utm_source=wanqu.co&utm_campaign=Wanqu+Daily&utm_medium=social&_r=0)
 
+[Self-Normalizing Neural Networks](https://arxiv.org/pdf/1706.02515.pdf)
+
+[See, Hear, and Read: Deep Aligned Representations](https://arxiv.org/pdf/1706.00932.pdf)
+
 ### 06092017
 
 [Deep Learning: A Bayesian Perspective <this>](https://arxiv.org/pdf/1706.00473.pdf)
