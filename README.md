@@ -1,6 +1,15 @@
 # ReadingList
 Paper and talk grass list.
 
+### 06122017
+
+[Unsupervised object learning from dense equivariant
+image labelling](https://arxiv.org/pdf/1706.02932.pdf)
+
+[A Joint Model for Question Answering and Question Generation](https://arxiv.org/pdf/1706.01450.pdf)
+
+[ShiftCNN: Generalized Low-Precision Architecture
+for Inference of Convolutional Neural Networks](https://arxiv.org/pdf/1706.02393.pdf)
 
 ### 06112017
 
