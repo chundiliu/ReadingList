@@ -3,6 +3,12 @@ Paper and talk grass list.
 
 ### 06122017
 
+[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
+
+[Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)
+
+#### Arxiv Lastest
+
 [Unsupervised object learning from dense equivariant
 image labelling](https://arxiv.org/pdf/1706.02932.pdf)
 
