@@ -1,6 +1,15 @@
 # ReadingList
 Paper and talk grass list.
 
+### 06132017
+
+[perlexity mit notes](http://web.mit.edu/6.863/www/fall2012/lectures/lecture2&3-notes12.pdf)
+
+[nlp stanford slides](https://web.stanford.edu/class/cs124/lec/languagemodeling.pdf)
+
+[skip thought vectors](https://arxiv.org/pdf/1506.06726.pdf)
+
+[pyTorch Tutorial](http://pytorch.org/tutorials/)
 ### 06122017
 
 [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
