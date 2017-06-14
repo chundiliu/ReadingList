@@ -2,6 +2,8 @@
 Paper and talk grass list.
 ### 06142017
 
+[Notes on Noise Contrastive Estimation and Negative Sampling](https://arxiv.org/pdf/1410.8251.pdf)
+
 [A Scalable Hierarchical Distributed Language Model](https://pdfs.semanticscholar.org/1005/645c05585c2042e3410daeed638b55e2474d.pdf)
 
 [Learning word embeddings efficiently with
