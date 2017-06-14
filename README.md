@@ -1,5 +1,13 @@
 # ReadingList
 Paper and talk grass list.
+### 06142017
+
+[A Scalable Hierarchical Distributed Language Model](https://pdfs.semanticscholar.org/1005/645c05585c2042e3410daeed638b55e2474d.pdf)
+
+[Learning word embeddings efficiently with
+noise-contrastive estimation](https://papers.nips.cc/paper/5165-learning-word-embeddings-efficiently-with-noise-contrastive-estimation.pdf)
+
+[importance sampling](ieeexplore.ieee.org/iel5/72/4479602/04443871.pdf)
 
 ### 06132017
 
