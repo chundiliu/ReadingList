@@ -1,5 +1,11 @@
 # ReadingList
 Paper and talk grass list.
+
+
+### 06152017
+
+[Comparison between TF and PyTorch](https://www.reddit.com/r/MachineLearning/comments/5w3q74/d_so_pytorch_vs_tensorflow_whats_the_verdict_on/)
+
 ### 06142017
 
 [Notes on Noise Contrastive Estimation and Negative Sampling](https://arxiv.org/pdf/1410.8251.pdf)
