@@ -14,6 +14,8 @@ Robust Visual Temporal Representations](https://arxiv.org/pdf/1706.02735.pdf)
 
 [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
+[Mask RCNN](https://arxiv.org/pdf/1703.06870.pdf)
+
 ### 06142017
 
 [Notes on Noise Contrastive Estimation and Negative Sampling](https://arxiv.org/pdf/1410.8251.pdf)
