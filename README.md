@@ -17,6 +17,8 @@ Robust Visual Temporal Representations](https://arxiv.org/pdf/1706.02735.pdf)
 
 [Mask RCNN](https://arxiv.org/pdf/1703.06870.pdf)
 
+[FASTTEXT.ZIP: COMPRESSING TEXT CLASSIFICATION MODELS](https://arxiv.org/pdf/1612.03651.pdf)
+
 ### 06142017
 
 [Notes on Noise Contrastive Estimation and Negative Sampling](https://arxiv.org/pdf/1410.8251.pdf)
