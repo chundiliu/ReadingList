@@ -6,6 +6,14 @@ Paper and talk grass list.
 
 [Comparison between TF and PyTorch](https://www.reddit.com/r/MachineLearning/comments/5w3q74/d_so_pytorch_vs_tensorflow_whats_the_verdict_on/)
 
+[Deep Reinforcement Learning
+from Human Preferences](https://arxiv.org/pdf/1706.03741.pdf)
+
+[CortexNet: a Generic Network Family for
+Robust Visual Temporal Representations](https://arxiv.org/pdf/1706.02735.pdf)
+
+[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+
 ### 06142017
 
 [Notes on Noise Contrastive Estimation and Negative Sampling](https://arxiv.org/pdf/1410.8251.pdf)
