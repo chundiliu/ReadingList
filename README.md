@@ -15,6 +15,8 @@ Paper and talk grass list.
 
 [tf rnn unofficial tutorial](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767)
 
+[TF RNN Tutorial follows this paper](https://arxiv.org/pdf/1409.2329.pdf)
+
 ### 06152017
 
 [Comparison between TF and PyTorch](https://www.reddit.com/r/MachineLearning/comments/5w3q74/d_so_pytorch_vs_tensorflow_whats_the_verdict_on/)
