@@ -17,6 +17,8 @@ Paper and talk grass list.
 
 [TF RNN Tutorial follows this paper](https://arxiv.org/pdf/1409.2329.pdf)
 
+[Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf)
+
 ### 06152017
 
 [Comparison between TF and PyTorch](https://www.reddit.com/r/MachineLearning/comments/5w3q74/d_so_pytorch_vs_tensorflow_whats_the_verdict_on/)
