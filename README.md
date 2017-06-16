@@ -7,7 +7,13 @@ Paper and talk grass list.
 
 [Character-Aware Neural Language Models](https://arxiv.org/pdf/1508.06615.pdf)
 
-[]()
+[TF RNN Tutorial](https://www.tensorflow.org/tutorials/recurrent)
+
+[Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+[Andrej Karpathy’s The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+[tf rnn unofficial tutorial](https://medium.com/@erikhallstrm/hello-world-rnn-83cd7105b767)
 
 ### 06152017
 
