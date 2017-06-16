@@ -3,6 +3,12 @@ Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 
+### 06162017
+
+[Character-Aware Neural Language Models](https://arxiv.org/pdf/1508.06615.pdf)
+
+[]()
+
 ### 06152017
 
 [Comparison between TF and PyTorch](https://www.reddit.com/r/MachineLearning/comments/5w3q74/d_so_pytorch_vs_tensorflow_whats_the_verdict_on/)
