@@ -3,6 +3,10 @@ Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 
+### 06212017
+
+[One Model To Learn Them All](https://arxiv.org/pdf/1706.05137.pdf)
+
 ### 06162017
 
 [Character-Aware Neural Language Models](https://arxiv.org/pdf/1508.06615.pdf)
