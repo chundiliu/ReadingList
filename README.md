@@ -3,6 +3,10 @@ Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 
+### 06232017
+
+[A Convolutional Neural Network for Modelling Sentences](http://www.aclweb.org/anthology/P14-1062)
+
 ### 06212017
 
 [One Model To Learn Them All](https://arxiv.org/pdf/1706.05137.pdf)
