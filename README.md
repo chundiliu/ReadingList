@@ -3,6 +3,28 @@ Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 
+### 07042017
+
+[Convolutional Sequence to Sequence Learning - Facebook Lastest CNN Seq2Seq](https://arxiv.org/pdf/1705.03122.pdf)
+
+[Generating Sequences With Recurrent Neural Networks - Alex Graves RNN](https://arxiv.org/pdf/1308.0850.pdf)
+
+[One Model To Learn Them All](https://arxiv.org/pdf/1706.05137.pdf)
+
+[OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER Hinton](https://arxiv.org/pdf/1701.06538.pdf)
+
+[A CONVOLUTIONAL ENCODER MODEL FOR NEURAL MACHINE TRANSLATION - Facebook CNN Machine Translation](https://arxiv.org/pdf/1611.02344.pdf)
+
+[Attention Is All You Need - Google Lasted CNN Machine Translation](https://arxiv.org/pdf/1706.03762.pdf)
+
+[Network In Network](https://arxiv.org/pdf/1312.4400.pdf)
+
+[MULTI-SCALE CONTEXT AGGREGATION BY DILATED CONVOLUTIONS](https://arxiv.org/pdf/1511.07122.pdf)
+
+[Depthwise Separable Convolutions for Neural Machine Translation](https://arxiv.org/pdf/1706.03059.pdf)
+
+[Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/pdf/1610.02357.pdf)
+
 ### 06232017
 
 [A Convolutional Neural Network for Modelling Sentences](http://www.aclweb.org/anthology/P14-1062)
