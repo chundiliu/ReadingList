@@ -23,6 +23,11 @@ Paper and talk grass list.
 
 [Conditional Image Generation with PixelCNN Decoders](https://arxiv.org/pdf/1606.05328.pdf)
 
+
+[FREEZEOUT: ACCELERATE TRAINING BY PROGRESSIVELY FREEZING LAYERS](https://arxiv.org/pdf/1706.04983.pdf)
+
+[Language Generation with Recurrent Generative Adversarial Networks without Pre-training](https://arxiv.org/pdf/1706.01399.pdf)
+
 ### 07042017
 
 [Convolutional Sequence to Sequence Learning - Facebook Lastest CNN Seq2Seq](https://arxiv.org/pdf/1705.03122.pdf)
