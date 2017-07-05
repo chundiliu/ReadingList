@@ -3,6 +3,26 @@ Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 
+### Print List
+
+[Language Modeling with Gated Convolutional Networks](https://arxiv.org/pdf/1612.08083.pdf)
+
+[Convolutional Sequence to Sequence Learning - Facebook Lastest CNN Seq2Seq](https://arxiv.org/pdf/1705.03122.pdf)
+
+[One Model To Learn Them All](https://arxiv.org/pdf/1706.05137.pdf)
+
+[Attention Is All You Need - Google Lasted CNN Machine Translation](https://arxiv.org/pdf/1706.03762.pdf)
+
+### 07052017
+
+[Language Modeling with Gated Convolutional Networks](https://arxiv.org/pdf/1612.08083.pdf)
+
+[FACTORIZATION TRICKS FOR LSTM NETWORKS](https://arxiv.org/pdf/1703.10722.pdf)
+
+[Neural Machine Translation in Linear Time](https://arxiv.org/pdf/1610.10099.pdf)
+
+[Conditional Image Generation with PixelCNN Decoders](https://arxiv.org/pdf/1606.05328.pdf)
+
 ### 07042017
 
 [Convolutional Sequence to Sequence Learning - Facebook Lastest CNN Seq2Seq](https://arxiv.org/pdf/1705.03122.pdf)
