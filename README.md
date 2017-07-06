@@ -3,6 +3,11 @@ Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 
+
+### 07062017
+
+[NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf)
+
 ### Print List
 
 [Language Modeling with Gated Convolutional Networks](https://arxiv.org/pdf/1612.08083.pdf)
