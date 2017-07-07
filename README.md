@@ -5,6 +5,8 @@ Paper and talk grass list.
 
 ### 07072017
 
+[Momentum](http://www.cs.toronto.edu/~fritz/absps/momentum.pdf)
+
 [Batch Normalization](https://arxiv.org/pdf/1502.03167.pdf)
 
 [Weight Normalization](https://arxiv.org/pdf/1602.07868.pdf)
