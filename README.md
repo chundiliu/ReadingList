@@ -3,6 +3,15 @@ Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 
+### 07072017
+
+[Batch Normalization](https://arxiv.org/pdf/1502.03167.pdf)
+
+[Weight Normalization](https://arxiv.org/pdf/1602.07868.pdf)
+
+[Layer Normalization](https://arxiv.org/pdf/1607.06450.pdf)
+
+[Understanding the Effective Receptive Field in Deep Convolutional Neural Networks](https://arxiv.org/pdf/1701.04128.pdf)
 
 ### 07062017
 
