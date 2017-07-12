@@ -13,6 +13,10 @@ Paper and talk grass list.
 
 [An overview of gradient descent optimization algorithms∗](https://arxiv.org/pdf/1609.04747.pdf)
 
+[Unsupervised Learning of Depth and Ego-Motion from Video](https://arxiv.org/pdf/1704.07813.pdf)
+
+[Multi-view Supervision for Single-view Reconstruction via Differentiable Ray Consistency](https://arxiv.org/pdf/1704.06254.pdf)
+
 ### 07072017
 
 [Momentum](http://www.cs.toronto.edu/~fritz/absps/momentum.pdf)
