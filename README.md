@@ -3,6 +3,14 @@ Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 
+### 07122017
+
+[VoxNet: A 3D Convolutional Neural Network for Real-Time Object Recognition](http://www.dimatura.net/publications/voxnet_maturana_scherer_iros15.pdf)
+
+[WAVENET: A GENERATIVE MODEL FOR RAW AUDIO](https://arxiv.org/pdf/1609.03499.pdf)
+
+[The surprising secret identity of the semidefinite relaxation of K-means: manifold learning](https://arxiv.org/pdf/1706.06028.pdf)
+
 ### 07072017
 
 [Momentum](http://www.cs.toronto.edu/~fritz/absps/momentum.pdf)
