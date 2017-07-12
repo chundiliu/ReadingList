@@ -11,6 +11,8 @@ Paper and talk grass list.
 
 [The surprising secret identity of the semidefinite relaxation of K-means: manifold learning](https://arxiv.org/pdf/1706.06028.pdf)
 
+[An overview of gradient descent optimization algorithms∗](https://arxiv.org/pdf/1609.04747.pdf)
+
 ### 07072017
 
 [Momentum](http://www.cs.toronto.edu/~fritz/absps/momentum.pdf)
