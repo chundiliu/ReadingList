@@ -3,6 +3,10 @@ Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 
+### 07192017
+
+[Efficient softmax approximation for GPUs](https://arxiv.org/pdf/1609.04309.pdf)
+
 ### 07122017
 
 [VoxNet: A 3D Convolutional Neural Network for Real-Time Object Recognition](http://www.dimatura.net/publications/voxnet_maturana_scherer_iros15.pdf)
