@@ -9,6 +9,8 @@ Paper and talk grass list.
 
 [Strategies for Training Large Vocabulary Neural Language Models](https://arxiv.org/pdf/1512.04906.pdf)
 
+[Strategies for Training Large Scale Neural Network Language Models](https://www.microsoft.com/en-us/research/wp-content/uploads/2011/12/ASRU-2011.pdf)
+
 ### 07122017
 
 [VoxNet: A 3D Convolutional Neural Network for Real-Time Object Recognition](http://www.dimatura.net/publications/voxnet_maturana_scherer_iros15.pdf)
