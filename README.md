@@ -3,6 +3,8 @@ Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 
+[Strategies for Training Large Vocabulary Neural Language Models](https://arxiv.org/pdf/1512.04906.pdf)
+
 ### 07192017
 
 [Efficient softmax approximation for GPUs](https://arxiv.org/pdf/1609.04309.pdf)
