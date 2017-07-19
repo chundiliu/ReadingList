@@ -3,6 +3,10 @@ Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 
+### 07202017
+
+[A fast and simple algorithm for training neural probabilistic language models](https://www.cs.toronto.edu/~amnih/papers/ncelm.pdf)
+
 ### 07192017
 
 [Efficient softmax approximation for GPUs](https://arxiv.org/pdf/1609.04309.pdf)
