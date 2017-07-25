@@ -7,6 +7,10 @@ Paper and talk grass list.
 
 [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)
 
+[Deep Networks with Stochastic Depth](https://arxiv.org/pdf/1603.09382.pdf)
+
+[RESNET IN RESNET: GENERALIZING RESIDUAL ARCHITECTURES](https://arxiv.org/pdf/1603.08029.pdf)
+
 ### 07192017
 
 [A fast and simple algorithm for training neural probabilistic language models](https://www.cs.toronto.edu/~amnih/papers/ncelm.pdf)
