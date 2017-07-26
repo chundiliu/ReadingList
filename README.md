@@ -3,6 +3,10 @@ Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 
+### 07262017
+
+[IMPROVING NEURAL LANGUAGE MODELS WITH A CONTINUOUS CACHE](https://openreview.net/pdf?id=B184E5qee)
+
 ### 07252017
 
 [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf)
