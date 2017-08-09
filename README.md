@@ -1,7 +1,15 @@
 # ReadingList
 Paper and talk grass list.
 
-[Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
+[Amazing Reddit](https://www.reddit.com/r/MachineLearning/) 
+
+### 08092017
+
+[Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/pdf/1606.02228.pdf)
+
+[ON LARGE-BATCH TRAINING FOR DEEP LEARNING: GENERALIZATION GAP AND SHARP MINIMA](https://arxiv.org/pdf/1609.04836.pdf)
+
+[The Effects of Hyperparameters on SGD Training of Neural Networks](https://arxiv.org/pdf/1508.02788.pdf)
 
 ### 07262017
 
