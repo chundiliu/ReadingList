@@ -1,7 +1,19 @@
 # ReadingList
 Paper and talk grass list.
 
-[Amazing Reddit](https://www.reddit.com/r/MachineLearning/) 
+[Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
+
+### 08102017
+
+[Wider or Deeper: Revisiting the ResNet Model for Visual Recognition](https://arxiv.org/pdf/1611.10080.pdf)
+
+[On the State of the Art of Evaluation in Neural Language Models](https://arxiv.org/pdf/1707.05589.pdf)
+
+[ICNet for Real-Time Semantic Segmentation on High-Resolution Images](https://arxiv.org/pdf/1704.08545.pdf)
+
+[The Reversible Residual Network: Backpropagation Without Storing Activations](https://arxiv.org/pdf/1707.04585.pdf)
+
+[Systematic evaluation of CNN advances on the ImageNet](https://arxiv.org/pdf/1606.02228.pdf)
 
 ### 08092017
 
