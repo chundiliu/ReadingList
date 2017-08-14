@@ -3,6 +3,10 @@ Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 
+### 08142017
+
+[tf_record](https://github.com/dennybritz/tf-rnn/blob/master/sequence_example.ipynb)
+
 ### 08102017
 
 [Wider or Deeper: Revisiting the ResNet Model for Visual Recognition](https://arxiv.org/pdf/1611.10080.pdf)
