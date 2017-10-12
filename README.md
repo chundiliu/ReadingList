@@ -3,6 +3,18 @@ Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 
+### 10122017
+
+[NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf)
+
+[Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition](https://arxiv.org/pdf/1406.4729.pdf)
+
+[Pointer Sentinel Mixture Models](https://arxiv.org/pdf/1609.07843.pdf)
+
+[Skip-gram Language Modeling Using Sparse Non-negative Matrix Probability Estimation](https://arxiv.org/pdf/1412.1454.pdf)
+
+[Recurrent Highway Networks](https://arxiv.org/pdf/1607.03474.pdf)
+
 ### 10062017
 
 [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/pdf/1610.02357.pdf)
