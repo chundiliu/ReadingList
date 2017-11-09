@@ -2,6 +2,7 @@
 Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
+Chundi Liu Test!
 
 ### 10122017
 
