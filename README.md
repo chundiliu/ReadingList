@@ -4,6 +4,18 @@ Paper and talk grass list.
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 Chundi Liu Test!
 
+### 12012017
+
+[Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567.pdf)
+
+[Deep Watershed Transform for Instance Segmentation](https://arxiv.org/pdf/1611.08303.pdf)
+
+[Learning Transferable Architectures for Scalable Image Recognition](https://arxiv.org/pdf/1707.07012.pdf)
+
+[Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261.pdf)
+
+[DON’T DECAY THE LEARNING RATE, INCREASE THE BATCH SIZE](https://arxiv.org/pdf/1711.00489.pdf)
+
 ### 10122017
 
 [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf)
