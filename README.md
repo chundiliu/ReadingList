@@ -4,7 +4,10 @@ Paper and talk grass list.
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 Chundi Liu Test!
 
-### 12012017
+### 12012017 Haven't updated it for one month
+
+[VAE_0](https://arxiv.org/pdf/1606.05908.pdf)  [VAE_1](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) 
+[VAE_2](https://wiseodd.github.io/techblog/2016/12/10/variational-autoencoder/)
 
 [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/pdf/1512.00567.pdf)
 
