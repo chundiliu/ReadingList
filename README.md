@@ -4,6 +4,22 @@ Paper and talk grass list.
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 Chundi Liu Test!
 
+### 12222017
+
+[FRATERNAL DROPOUT](https://arxiv.org/pdf/1711.00066.pdf)
+
+[DYNAMIC EVALUATION OF NEURAL SEQUENCE MODELS](https://arxiv.org/pdf/1709.07432.pdf)
+
+[Extraction of Salient Sentences from Labelled Documents](https://arxiv.org/pdf/1412.6815.pdf)
+
+[Neural Machine Translation in Linear Time](https://arxiv.org/pdf/1610.10099.pdf)
+
+[From Group to Individual Labels using Deep Features](http://www.datalab.uci.edu/papers/kdd2015_dimitris.pdf)
+
+[R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://arxiv.org/pdf/1605.06409.pdf)
+
+[Deformable Convolutional Networks](https://arxiv.org/pdf/1703.06211.pdf)
+
 ### 12012017 Haven't updated it for one month
 
 [VAE_0](https://arxiv.org/pdf/1606.05908.pdf)  [VAE_1](https://jaan.io/what-is-variational-autoencoder-vae-tutorial/) 
