@@ -2,7 +2,18 @@
 Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
-Chundi Liu Test!
+
+### 04082018
+[Learning a Similarity Metric Discriminatively, with Application to Face Verification](http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf)
+
+[Siamese Network of Deep Fisher-Vector Descriptors for Image
+Retrieval](https://arxiv.org/pdf/1702.00338.pdf)
+
+[Siamese Neural Networks for One-Shot Image Recognition](http://www.cs.utoronto.ca/~gkoch/files/msc-thesis.pdf)
+
+[Consistent feature attribution for tree ensembles](https://arxiv.org/pdf/1706.06060.pdf)
+
+[Kafka: a Distributed Messaging System for Log Processing](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/09/Kafka.pdf)
 
 ### 12222017
 
