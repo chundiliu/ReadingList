@@ -3,6 +3,10 @@ Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 
+### 05152018
+
+https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection
+
 ### 04082018
 [Learning a Similarity Metric Discriminatively, with Application to Face Verification](http://yann.lecun.com/exdb/publis/pdf/chopra-05.pdf)
 
