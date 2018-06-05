@@ -35,6 +35,8 @@ https://arxiv.org/pdf/1710.01691.pdf
 
 http://cvpr2018.thecvf.com/program/main_conference
 
+http://www.cs.princeton.edu/cass/papers/www11.pdf
+
 ### 05152018
 
 https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection
