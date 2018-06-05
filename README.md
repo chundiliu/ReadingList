@@ -3,6 +3,36 @@ Paper and talk grass list.
 
 [Amazing Reddit](https://www.reddit.com/r/MachineLearning/)
 
+### 06052018
+
+https://arxiv.org/pdf/1803.01534.pdf
+
+https://arxiv.org/pdf/1804.00413.pdf
+
+https://arxiv.org/pdf/1706.03850.pdf
+
+https://arxiv.org/pdf/1805.10384.pdf
+
+https://arxiv.org/pdf/1711.11543.pdf
+
+https://arxiv.org/pdf/1712.01238.pdf
+
+https://arxiv.org/pdf/1803.02612.pdf
+
+https://arxiv.org/pdf/1804.00389.pdf
+
+https://arxiv.org/pdf/1803.08904.pdf
+
+https://arxiv.org/pdf/1710.03958.pdf
+
+https://arxiv.org/pdf/1710.03958.pdf
+
+https://arxiv.org/pdf/1709.07192.pdf
+
+https://arxiv.org/pdf/1710.03370.pdf
+
+https://arxiv.org/pdf/1710.01691.pdf
+
 ### 05152018
 
 https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection
